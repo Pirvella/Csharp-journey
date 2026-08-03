@@ -5,26 +5,28 @@ About : This repository documents my journey of learning C# through practical ex
 
 Initial Topics :
 
-Classes
-Encapsulation — Properties
-Constructors / Destructors
-Inheritance
-Abstraction
-Virtual Methods and Override
-Polymorphism
-Interfaces
-Interface Inheritance
-Default Interface Methods
-Collections
-List
-Dictionary
-HashSet
-Stack
-Queue
-LinkedList
-Streams
-Text Streams
-Binary Streams
-Exceptions
-Delegates
+* Classes
+* Encapsulation — Properties
+* Constructors / Destructors
+* Inheritance
+* Abstraction
+* Virtual Methods and Override
+* Polymorphism
+* Interfaces
+* Interface Inheritance
+* Default Interface Methods
+* Collections
+   * List
+   * Dictionary
+   * HashSet
+   * Stack
+   * Queue
+   * LinkedList
+* Streams
+   * Text Streams
+   * Binary Streams
+* Exceptions
+* Delegates
+
+ 
 Goal : My goal is to build a strong foundation in C# through consistent practice and gradually progress to more advanced concepts and real-world projects.
